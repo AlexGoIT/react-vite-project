@@ -10,5 +10,5 @@ export default defineConfig({
       components: '/src/components',
     },
   },
-  base: '/react-vite-project',
+  base: '/react-vite-project/',
 });
